@@ -1,2 +1,0 @@
-# portfolio-mahsa
-shecodes project
